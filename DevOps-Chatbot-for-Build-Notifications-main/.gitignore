@@ -1,0 +1,6 @@
+.env
+DevOps_Chatbot_Project_Report.docx
+
+__pycache__/
+*.pyc
+~$*
